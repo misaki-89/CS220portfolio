@@ -1,3 +1,4 @@
+import Image from "next/image";
 export default function Intro() {
   return (
     <section className="flex flex-col items-start text-left gap-10">
