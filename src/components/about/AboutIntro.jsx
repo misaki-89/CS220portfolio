@@ -15,9 +15,8 @@ export default function AboutIntro() {
       <p className="text-[color:var(--text-secondary)] leading-relaxed">
         Their breeding process is remarkably challenging, as it takes place during the harsh Antarctic winter. After the
         female lays an egg, the male takes over the responsibility of incubating it for about two months. To survive
-        temperatures that drop below -40°C, the males form "huddles," where thousands of birds stand close together and
-        take turns moving from the cold exterior to the warm center, sharing their body heat to ensure everyone's
-        survival.
+        temperatures that drop below -40°C, the males form so‑called huddles, where thousands of birds stand close together and
+        take turns moving from the cold exterior to the warm center, sharing their body heat to ensure the survival of all members.
       </p>
 
       <p className="text-[color:var(--text-secondary)] leading-relaxed">
