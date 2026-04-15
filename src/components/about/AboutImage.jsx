@@ -9,7 +9,7 @@ export default function AboutImage() {
         mx-auto md:mx-0
       "
     >
-      <img src="/penguin2.jpg" alt="Profile" className="w-full h-full object-cover" />
+      <Image src="/penguin2.jpg" alt="Profile" className="w-full h-full object-cover" />
     </div>
   );
 }

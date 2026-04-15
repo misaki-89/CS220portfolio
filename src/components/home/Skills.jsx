@@ -39,7 +39,7 @@ export default function Skills() {
         {skills.map((skill, index) => (
           <li key={index}>
             <div className="flex items-center gap-4">
-              <img src={skill.icon} alt={`${skill.name} icon`} className="w-12 h-12 rounded-full" />
+              <Image src={skill.icon} alt={`${skill.name} icon`} className="w-12 h-12 rounded-full" />
 
               <div className="flex flex-col flex-grow gap-2">
                 <h3 className="text-sm font-medium text-[color:var(--text-primary)] m-0">{skill.name}</h3>

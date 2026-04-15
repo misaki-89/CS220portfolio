@@ -67,7 +67,7 @@ export default function Work() {
       <ul className="flex flex-col gap-8">
         {experiences.map((exp, index) => (
           <li key={index} className="flex items-start gap-4">
-            <img src={exp.logo} alt={`${exp.organization} Logo`} className="w-12 h-12 rounded-full" />
+            <Image src={exp.logo} alt={`${exp.organization} Logo`} className="w-12 h-12 rounded-full" />
 
             <div className="flex flex-col w-full gap-1">
               <h3 className="text-base font-medium text-[color:var(--text-primary)]">{exp.organization}</h3>

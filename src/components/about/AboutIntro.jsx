@@ -2,7 +2,7 @@ export default function AboutIntro() {
   return (
     <div className="space-y-8">
       <h1 className="text-6xl md:text-5xl font-bold leading-tight">
-        I’m Jane. I live in New York City, where I develop the future.
+        I am Jane. I live in New York City, where I develop the future.
       </h1>
 
       <p className="text-[color:var(--text-secondary)] leading-relaxed">

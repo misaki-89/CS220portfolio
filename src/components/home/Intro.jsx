@@ -2,7 +2,7 @@ export default function Intro() {
   return (
     <section className="flex flex-col items-start text-left gap-10">
       <div className="w-32 h-32 rounded-full overflow-hidden">
-        <img src="/penguin.jpg" alt="Profile" className="w-full h-full object-cover" />
+        <Image src="/penguin.jpg" alt="Profile" className="w-full h-full object-cover" />
       </div>
 
       <div className="max-w-4xl flex flex-col items-start text-left">
